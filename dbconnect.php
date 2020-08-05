@@ -1,7 +1,7 @@
 <?php
 
 try{
-    $db= new PDO('mysql:dbname=hw_db;host=127.0.0.1','root','');
+   //db接続
 
 
 }catch(PDOException $e){
